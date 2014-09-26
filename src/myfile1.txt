@@ -1,0 +1,6 @@
+this is my file 1
+
+asdfsd
+sdf
+
+changed after first commit.
